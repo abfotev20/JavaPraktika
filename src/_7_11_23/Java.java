@@ -1,3 +1,5 @@
+package _7_11_23;
+
 import _7_11_23.Child;
 
 import java.util.Scanner;
