@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2bfe5d8-223b-4789-aa81-9d14fd82f38f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/_14_11_23/Human.java" afterDir="false" />
+    <list default="true" id="d2bfe5d8-223b-4789-aa81-9d14fd82f38f" name="Changes" comment="14.11.23">
+      <change afterPath="$PROJECT_DIR$/src/_28_11_23/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_28_11_23/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_28_11_23/European.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_28_11_23/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_28_11_23/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +49,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="_28_11_23" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +64,7 @@
       <updated>1699343522801</updated>
       <workItem from="1699343524599" duration="2477000" />
       <workItem from="1700552292845" duration="3968000" />
-      <workItem from="1701156816500" duration="939000" />
+      <workItem from="1701156816500" duration="2913000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1700556777211</created>
@@ -64,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700556777211</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14.11.23">
+      <created>1701158176105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701158176105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="14.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.11.23" />
   </component>
 </project>
