@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2bfe5d8-223b-4789-aa81-9d14fd82f38f" name="Changes" comment="28.11.23">
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_12_12_23/Puppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_11_23/Bulgarian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_11_23/Chinese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_11_23/European.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_11_23/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_28_11_23/Person.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d2bfe5d8-223b-4789-aa81-9d14fd82f38f" name="Changes" comment="12.12.23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +79,7 @@
       <workItem from="1699343524599" duration="2477000" />
       <workItem from="1700552292845" duration="3968000" />
       <workItem from="1701156816500" duration="4475000" />
-      <workItem from="1702367153526" duration="3579000" />
+      <workItem from="1702367153526" duration="3662000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1700556777211</created>
@@ -122,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701160020918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12.12.23">
+      <created>1702370857037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702370857037</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +137,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="14.11.23" />
     <MESSAGE value="28.11.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="28.11.23" />
+    <MESSAGE value="12.12.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.12.23" />
   </component>
 </project>
