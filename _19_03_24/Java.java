@@ -1,6 +1,6 @@
-package _7_11_23;
+package _19_03_24;
 
-import _7_11_23.Child;
+import _19_03_24.Child;
 
 import java.util.Scanner;
 public class Java {
